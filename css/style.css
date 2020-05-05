@@ -1,0 +1,23 @@
+.navbar {
+    background-color: rgb(198, 233, 43);
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.quemsomos {
+    background-color: rgb(234, 255, 47);
+    width: 120px;
+    height: 150px;
+    margin: 10px;
+    padding-bottom: 10px;
+}
+
+.margin {
+    margin: 10px
+}
+
+.parceiros {
+    background-color: teal;
+}
